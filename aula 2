@@ -1,0 +1,18 @@
+o conjuto nao possui itens repetidos
+os objetos de um conjuto nao sao
+ordenados
+os objetivos de um conjuto nao sao modificados mais podemos excluir objetos de um conjuto e inserir outros
+por atribucao de um valor a uma variavel 
+por conversao de tipos que pode ser 
+explicita 
+implicita
+a funcao imput() faz com que o valor obtido pelo teclado seja armazenado na variavel sempre como um etc
+a funcao print, permite a saida de dados no monitor
+____________________________________________________________________________________________________
+aula 15
+objetos de diferentes tipos a sintaxe adotado ea
+lista:
+armazenam multiplos objetos em uma unica variavel
+cada objeto tem um indice que indica sua posicao dentro da lista
+o indice o refere-se ao primeiro elemento da sua lista
+um objetivo do tipo list e representado por colchetes
